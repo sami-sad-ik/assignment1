@@ -1,0 +1,213 @@
+* {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif, Geneva,
+    Tahoma, sans-serif;
+}
+.first-sec {
+  color: white;
+  width: 76%;
+  height: 510px;
+  border-radius: 15px;
+  margin: 0 auto;
+  text-align: center;
+  background: linear-gradient(#000000, #0000001a),
+    url(file:///C:/projects/B9A1-New-Year-New-Mission-main/resources/Banner%20Image.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.hny {
+  padding-top: 200px;
+  font-size: 20px;
+}
+.clb {
+  font-size: 45px;
+}
+.second {
+  text-align: center;
+  margin-top: 60px;
+}
+#discount {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 70px;
+  color: red;
+}
+#holiday {
+  color: red;
+  font-size: 20px;
+  font-weight: lighter;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#category {
+  font-size: 40px;
+  margin-top: 0;
+}
+.third {
+  color: white;
+  width: 76%;
+  height: 510px;
+  border-radius: 15px;
+  margin: 0 auto;
+  text-align: center;
+  background: linear-gradient(to right, rgb(0, 0, 0), rgba(0, 0, 0, 0)),
+    url(file:///C:/projects/B9A1-New-Year-New-Mission-main/resources/Vectorrr.png);
+  display: flex;
+  justify-content: space-around;
+  align-items: start;
+}
+.lekha {
+  margin-top: 140px;
+
+  text-align: left;
+  margin-left: 60px;
+}
+#twenty {
+  margin-top: 40px;
+  margin-right: 100px;
+  width: 300px;
+}
+.welcome {
+  font-size: 50px;
+}
+.join {
+  background: none;
+  color: white;
+  border: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  padding: 10px 20px;
+}
+.fourth {
+  width: 76%;
+  height: 400px;
+  border-radius: 15px;
+  margin: 50px auto;
+  text-align: center;
+  background-color: #ffc0cb84;
+  background: linear-gradient(#ffc0cb84, white);
+}
+.red {
+  color: red;
+}
+.date {
+  padding-top: 80px;
+}
+#scndbtn {
+  color: white;
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.fifth {
+  width: 76%;
+  height: 510px;
+  margin: 0 auto;
+  display: flex;
+}
+#ellipse {
+  width: 400px;
+  height: 400px;
+  padding: 20px;
+  border: 10px solid red;
+  border-radius: 50%;
+}
+.left {
+  text-align: left;
+  margin: 50px 20px;
+}
+.newoffer {
+  color: red;
+}
+.comingsoon {
+  font-size: 50px;
+}
+.leftlorem {
+  font-size: 20px;
+}
+.twozero {
+  color: red;
+  font-size: 50px;
+}
+.right {
+  margin: 20px 40px;
+}
+.rightlorem {
+  font-size: 20px;
+}
+.sixth {
+  width: 76%;
+  height: 850px;
+  border-radius: 15px;
+  margin: 100px auto;
+  background-image: url(file:///C:/projects/B9A1-New-Year-New-Mission-main/resources/Rectangle%202.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: bottom;
+}
+.functional {
+  text-align: center;
+  font-size: 25px;
+}
+#span-1 {
+  color: red;
+}
+.sale {
+  text-align: center;
+  font-size: 60px;
+}
+.descrip {
+  font-size: 20px;
+  text-align: center;
+  margin: 0 150px;
+}
+#gift {
+  width: 661px;
+  height: 550px;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+.images {
+  background-image: url(file:///C:/projects/B9A1-New-Year-New-Mission-main/resources/Rectangle%201.png);
+  background-repeat: no-repeat;
+  background-size: 30%;
+  background-position: right 55px;
+  display: flex;
+}
+#discount {
+  width: 200px;
+  height: 200px;
+  margin-top: 80px;
+  margin-left: 25px;
+}
+.seventh {
+  width: 76%;
+  height: 850px;
+  border-radius: 15px;
+  margin: 50px auto;
+}
+.bestgift {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.portfolio {
+  font-size: 50px;
+}
+.portlorem {
+  font-size: 20px;
+  text-align: left;
+  padding-right: 200px;
+  color: gray;
+}
+.picrow1 {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
+}
+.productpic {
+  width: 370px;
+}
+.productpic:hover {
+  cursor: pointer;
+ 
+}
