@@ -11,7 +11,7 @@
   margin-top: 100px;
   text-align: center;
   background: linear-gradient(#000000, #0000001a),
-    url(file:///C:/projects/Assignment1/B9A1-New-Year-New-Mission-main/resources/Banner%20Image.png);
+    url(./B9A1-New-Year-New-Mission-main/resources/Banner\ Image.png);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -50,7 +50,7 @@
   margin: 0 auto;
   text-align: center;
   background: linear-gradient(to right, rgb(0, 0, 0), rgba(0, 0, 0, 0)),
-    url(file:///C:/projects/Assignment1/B9A1-New-Year-New-Mission-main/resources/Vectorrr.png);
+    url(./B9A1-New-Year-New-Mission-main/resources/Vectorrr.png);
   display: flex;
   justify-content: space-around;
   align-items: start;
@@ -152,7 +152,7 @@
   height: 850px;
   border-radius: 15px;
   margin: 100px auto;
-  background-image: url(file:///C:/projects/Assignment1/B9A1-New-Year-New-Mission-main/resources/Rectangle%202.png);
+  background-image: url(./B9A1-New-Year-New-Mission-main/resources/Rectangle\ 2.png);
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: bottom;
@@ -180,10 +180,10 @@
   margin-left: 10px;
 }
 .images {
-  background-image: url(file:///C:/projects/Assignment1/B9A1-New-Year-New-Mission-main/resources/Rectangle%201.png);
+  background-image: url(./B9A1-New-Year-New-Mission-main/resources/Rectangle\ 1.png);
   background-repeat: no-repeat;
   background-size: 30%;
-  background-position: right 55px;
+  background-position: right 78px;
   display: flex;
 }
 #discount-50 {
