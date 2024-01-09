@@ -8,6 +8,7 @@
   height: 510px;
   border-radius: 15px;
   margin: 0 auto;
+  margin-top: 100px;
   text-align: center;
   background: linear-gradient(#000000, #0000001a),
     url(file:///C:/projects/B9A1-New-Year-New-Mission-main/resources/Banner%20Image.png);
@@ -70,11 +71,17 @@
 }
 .join {
   background: none;
-  color: white;
+  color: #ffffff;
   border: none;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
   padding: 10px 20px;
+}
+.join:hover {
+  cursor: pointer;
+  background-color: #80808074;
+  transition: 0.4s;
+  border-radius: 5px;
 }
 .fourth {
   width: 76%;
@@ -96,8 +103,13 @@
   background-color: red;
   border: none;
   border-radius: 5px;
-  padding: 10px 20px;
+  padding: 15px 30px;
   font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+#scndbtn:hover {
+  background-color: crimson;
+  transition: 0.4s;
 }
 .fifth {
   width: 76%;
@@ -174,7 +186,7 @@
   background-position: right 55px;
   display: flex;
 }
-#discount {
+#discount-50 {
   width: 200px;
   height: 200px;
   margin-top: 80px;
@@ -185,6 +197,7 @@
   height: 850px;
   border-radius: 15px;
   margin: 50px auto;
+  display: block;
 }
 .bestgift {
   color: red;
@@ -200,14 +213,132 @@
   color: gray;
 }
 .picrow1 {
-  display: flex;
-  justify-content: space-between;
-  margin: 20px auto;
+  padding-top: 50px;
 }
 .productpic {
-  width: 370px;
+  width: 350px;
 }
 .productpic:hover {
   cursor: pointer;
- 
+  width: 340px;
+  margin: 5px 5px;
+}
+.eighth {
+  width: 73%;
+  height: 480px;
+  border-radius: 15px;
+  margin: 0 auto;
+  margin-top: 200px;
+  text-align: center;
+  background-color: #ffc0cb84;
+}
+#mail {
+  margin-top: 60px;
+}
+.newsletter {
+  font-size: 40px;
+}
+.lorembottom {
+  font-family: Arial, Helvetica, sans-serif, Geneva, Tahoma, sans-serif, Times,
+    serif;
+  color: #636060;
+  margin: 0 200px;
+}
+.bar {
+  margin: 30px auto;
+}
+.text {
+  width: 350px;
+  height: 50px;
+  border: none;
+  padding-left: 20px;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+.text::placeholder {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #8080807a;
+}
+.subscribe {
+  width: 130px;
+  height: 51px;
+  border: none;
+  background-color: red;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  color: #fff;
+  padding-bottom: 5px;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+.subscribe:hover {
+  background-color: tomato;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.last {
+  width: 73%;
+  height: 200px;
+  background-color: #070211;
+  margin: 0 auto;
+  padding-top: 100px;
+  margin-top: 100px;
+}
+footer {
+  width: 100%;
+  height: 480px;
+  background-color: #070211;
+}
+.lasth1 {
+  color: white;
+
+  font-size: 20px;
+}
+.call {
+  display: flex;
+
+  color: white;
+  font-size: 18px;
+}
+.web {
+  display: flex;
+  color: white;
+  font-size: 20px;
+}
+.callweb1 {
+  display: inline-block;
+  width: 80%;
+}
+.callweb2 {
+  display: inline-block;
+}
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon {
+  width: 50px;
+  margin: 20px 5px;
+}
+.icon:hover {
+  cursor: pointer;
+}
+.hr {
+  background-color: gray;
+  border: none;
+  height: 0.1px;
+}
+#unsub {
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 20px;
+  border: none;
+  background-color: #000000;
+}
+#unsub:hover {
+  background-color: #636060;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 5px;
 }
